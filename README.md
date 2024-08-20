@@ -10,6 +10,9 @@
 ## Procesamiento
 - Para verificar el código ir a este [Link Colab](/2018_2023_analisis_NYC.ipynb)
 
+## Paper
+- [Link Paper](/paper.pdf)
+
 ## El repositorio contiene:
 
 * Archivo .py para desplegarlo en Streamlit (app.py).
