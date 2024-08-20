@@ -4,6 +4,11 @@
 - Pilco Pancca, Luz Marina
 - Sejje Condori, Erika
 
+## Preprocesamiento
+- Para verificar el código ir a este [Link Colab](/NYPD.ipynb)
+
+## Procesamiento
+- Para verificar el código ir a este [Link Colab](/2018_2023_analisis_NYC.ipynb)
 
 ## El repositorio contiene:
 
