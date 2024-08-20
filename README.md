@@ -13,6 +13,9 @@
 ## Paper
 - [Link Paper](/paper.pdf)
 
+## Video Explicativo
+- [Link Video](https://youtu.be/OV0XwXC4i-E)
+
 ## El repositorio contiene:
 
 * Archivo .py para desplegarlo en Streamlit (app.py).
